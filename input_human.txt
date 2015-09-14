@@ -1,0 +1,5 @@
+phuc,hjeu,female
+nam,17,female
+ha,21,male
+hao,23,male
+hoa,18,female
