@@ -1,9 +1,9 @@
-ruby_exercise
+Exercise-Ruby
 ###Exercise 1:
 Human Exercise
 Input list of human with three parameters(name, age, gender) read from input_human.txt
 Output: list human male and age greater or equal 18 years old.
-list human female and age greater or equal 18 years old.
+List human female and age greater or equal 18 years old.
 
 ----
 ###Exercise 2:
